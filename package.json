@@ -1,0 +1,13 @@
+{
+  "name": "waguri-kaoruko-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with 20 features, interactive menu and owner settings",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "node-fetch": "^2.7.0"
+  }
+}
